@@ -17,7 +17,7 @@ This project requires no external library installation and runs natively with Py
 1. Clone the Repository
 ```
 git clone [Your Repository URL Here]
-cd snake-game-project
+cd python-tkinter-snake-game
 ```
 2. Execute the Game
 Run the main file using your terminal or Command Prompt:
